@@ -1,0 +1,17 @@
+.venv/
+*.egg-info/
+dist/
+build/
+.vscode/
+__pycache__/
+*.pyc
+*.npy
+*.nc
+*.json
+*.dat
+*.png
+.DS_Store
+temp.py
+dataset_index/
+commands.txt
+requirements.txt
