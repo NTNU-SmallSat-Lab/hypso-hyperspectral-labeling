@@ -1,7 +1,7 @@
 # hypso-hyperspectral-labeling
 
 GUI tool for labeling **HYPSO hyperspectral scenes** using **napari**.
----
+
 
 ## Features
 
