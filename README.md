@@ -1,9 +1,6 @@
 # hypso-hyperspectral-labeling
 
 GUI tool for labeling **HYPSO hyperspectral scenes** using **napari**.
-
-This project is intended for label scene pixels (e.g. cloud, land, sea, snow, etc.) and use built-in propagation tools (SVM + PCA) to extend sparse labels across a scene.
-
 ---
 
 ## Features
@@ -31,7 +28,7 @@ This project is intended for label scene pixels (e.g. cloud, land, sea, snow, et
 
 ### 1) Clone the repository
 
-    git clone https://github.com/Nlkolal/hypso-hyperspectral-labeling.git
+    git clone https://github.com/NTNU-SmallSat-Lab/hypso-hyperspectral-labeling.git
     cd hypso-hyperspectral-labeling
 
 ### 2) Create and activate a virtual environment
